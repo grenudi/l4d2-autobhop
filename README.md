@@ -5,7 +5,9 @@
  I am not responsible for bans that are a result of using this software. If you choose to use this software and you get banned its on you not me. 
 
 ## Downloading
- Go to actions and select the first one in the list. Then there should be a list of downloads. I recommend the Release x86 one, but all of them work. Don't use the Debug ones, unless you experience errors, as the Debug build run a lot slower.
+ Go to actions and select the first one in the list. Then there should be a list of downloads. I recommend the Release x86 one, but all of them work. Don't use the Debug ones, unless you experience errors, as the Debug build run a lot slower.  
+   
+ Download .exe from bin\x64\ (idk how to use actions on github..)
 
 ## Running
  `l4d2-autobhop.exe <playerbase> <mFlags offset> <window name>`
